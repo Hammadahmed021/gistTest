@@ -1,4 +1,16 @@
 import React, { useEffect, useState } from 'react'
-const GistList = () => <></>
+import Gist from './Gist'
+
+
+const GistList = () => <>
+
+
+<Gist />
+<Gist />
+
+
+
+</>
 
 export default GistList
+
